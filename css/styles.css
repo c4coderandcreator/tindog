@@ -97,7 +97,7 @@ h2{
     .title-image{
         position: static;
         transform: rotate(0);
-        width: 30%;
+        width: 50%;
     }
     #title{
         text-align: center;
